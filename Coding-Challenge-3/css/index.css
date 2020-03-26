@@ -101,9 +101,9 @@ fieldset legend{
     width: 55%;
     height: 50px;
     display: inline-block;
-    text-align: right;
+    text-align: left;
     color: #72788D;
-        overflow: hidden;
+     overflow: hidden;
 }
 .comUser{
     text-align: left;
