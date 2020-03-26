@@ -10,3 +10,5 @@ git add *
 
 git commit -a -m "Coding challenge 1"
 
+git push
+
